@@ -45,7 +45,7 @@ nc: 2
 # class names
 names: ['person', 'bicycle']
 ```
-# For how to label the image, please refers to yolov3 !!! (If you have question, you can ask me)
+# For how to label the image, please refers to yolov3 method
 
 # Step 2. Select a Model
 ```sh
