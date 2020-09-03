@@ -5,7 +5,9 @@ Follow the instruction below, so you can easily understand how to use yolov4 to 
 
 1. **Download YOLO4** 
  * In this part you can use the code below to download YOLO4 .
+    ```
     git clone https://github.com/AlexeyAB/darknet.git 
+    ```
  
  * You also can visit https://github.com/AlexeyAB/darknet to download the code.
  2. **Download pre-trained weights-file**
