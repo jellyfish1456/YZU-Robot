@@ -22,6 +22,7 @@ cd darknet
 make
 
 ![enter image description here](https://imagizer.imageshack.com/img922/6418/joHpS2.png)
+
 4. **Create the file and data**
 * Please follow the image below to create the file.
   
