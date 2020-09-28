@@ -11,3 +11,23 @@ Generally, a defined biped humanoid robot has a torso, a head, two arms, as well
 
 
 We can design the robot with our need. This robot is bought from Robosmart Technology. It provides us an opportunity to build our own robot!
+
+# Content
+
+  * [Component](#Component)
+  * [Installation](#Installation)
+  * [Praogram_syntax](#Praogram_syntax)
+  * [Robot_Action_Programming](#Robot_Action_Programming)
+  * [Preliminary_prepare](#Preliminary_prepare)
+  * [Check_and_start](#Check_and_start)
+  * [Code](#Code)
+  * [Reference](#Reference)
+  * [Members](#Members)
+  * [Honor](#Honor)
+  * [Gratitude](#Gratitude)
+  
+ # Gratitude
+
+We appreciate Prof. Po-Chiang Lin as our capstone instructor.
+
+We also appreciate those who helped us along the way
