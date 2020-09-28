@@ -25,7 +25,7 @@ You can find that you just have 2.6 GB to use.
 ```sudo chmod 600 /swapfile```
 
 ```ls -lh /swapfile```
-![](https://makerpro.cc/wp-content/uploads/2019/05/12.png)
+![](https://makerpro.cc/wp-content/uploads/2019/05/12.png)<br>
 
 ***Set SWAP and activate it.***
 
@@ -34,7 +34,7 @@ You can find that you just have 2.6 GB to use.
 ```sudo swapon /swapfile```
 
 ```sudo swapon -show```
-![](https://makerpro.cc/wp-content/uploads/2019/05/13.png)
+![](https://makerpro.cc/wp-content/uploads/2019/05/13.png)<br>
 
 Type ```free -h```  to confirm whether SWAP successful or not.
 Because SWAP will disappear when you turn off the power, so please remember add SWAP in fstab.
