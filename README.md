@@ -29,7 +29,7 @@ We can design the robot with our need. This robot is bought from Robosmart Techn
 
 
 ## Installation
-Please check out [Jetson nano/vcn.md](Jetson nano/vcn.md)
+Please check out [Jetson_nano/vcn.md](Jetson_nano/vcn.md)
   
  # Gratitude
 
