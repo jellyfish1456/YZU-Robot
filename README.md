@@ -25,6 +25,11 @@ We can design the robot with our need. This robot is bought from Robosmart Techn
   * [Members](#Members)
   * [Honor](#Honor)
   * [Gratitude](#Gratitude)
+
+
+
+## Installation
+Please check out [Jetson nano/vcn.md](Jetson nano/vcn.md)
   
  # Gratitude
 
