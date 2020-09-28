@@ -1,4 +1,5 @@
-# YZU-Robot
+# Biped humanoid robot combined with computer vision technology - for real-time object detection based on YOLO
+
 
 This YZUEI Robot is our graduate capstone. The group members are Li-Yuan Liu and Ching-Hsien Hsu.
 
