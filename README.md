@@ -29,6 +29,7 @@ We can design the robot with our need. This robot is bought from Robosmart Techn
 # Robot
 
 The robot we use in our capstone is Siegfried robot.
+Here is the link of [Siegfried robot](http://robosmart.com.tw/zh-tw/product_con.php?id=NTA=)
 
 ### Feature 
 
