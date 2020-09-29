@@ -32,6 +32,7 @@ The robot we use in our capstone is Siegfried robot.
 
 ### Feature 
 
+to be continue
 
 ## Installation
 Please check out [Jetson_nano/vnc.md](Jetson_nano/vnc.md)
