@@ -14,7 +14,7 @@ We can design the robot with our need. This robot is bought from Robosmart Techn
 
 # Content
 
-  * [Component](#Component)
+  * [Robot](#Robot)
   * [Installation](#Installation)
   * [Praogram_syntax](#Praogram_syntax)
   * [Robot_Action_Programming](#Robot_Action_Programming)
@@ -26,6 +26,11 @@ We can design the robot with our need. This robot is bought from Robosmart Techn
   * [Honor](#Honor)
   * [Gratitude](#Gratitude)
 
+# Robot
+
+The robot we use in our capstone is Siegfried robot.
+
+* Feature 
 
 
 ## Installation
