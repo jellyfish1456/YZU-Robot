@@ -30,7 +30,7 @@ We can design the robot with our need. This robot is bought from Robosmart Techn
 
 The robot we use in our capstone is Siegfried robot.
 
-* Feature 
+### Feature 
 
 
 ## Installation
