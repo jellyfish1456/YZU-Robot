@@ -1,4 +1,4 @@
-﻿# Batch Renaming
+﻿# Batch Renaming Tools
 In this part I will recommend very useful software "KRename".
 
 Download Link:
