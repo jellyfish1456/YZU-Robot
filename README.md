@@ -31,6 +31,38 @@ We can design the robot with our need. This robot is bought from Robosmart Techn
 The robot we use in our capstone is Siegfried robot.
 Here is the link of [Siegfried robot](http://robosmart.com.tw/zh-tw/product_con.php?id=NTA=)
 
+# Train_data
+The following method is our traing data concept
+
+first step (10/08):
+1. we took images from far to middle to near as the training datas. Because in the process of the robot's movement, the object we want to detect will become bigger when the robot close to the object. 
+
+Also, we set the far images, middle images and near images as  traing data in one class. The reason why we set different range views of the same class is because they are belongs to the same object, no matter the range of the images.
+
+Moreover, if we set the training data as three classes, the detection cannot easily be classified. Since the edge between far and middle, middle and near is difficult to define.
+
+...
+far range images
+
+middle range images
+
+near range images
+
+Experiment result
+
+55 cm
+The accuracy is 
+
+
+42 cm
+The accuracy is
+
+26 cm
+The accuracy is
+
+12 cm
+The accuracy is
+
 ### Feature 
 
 to be continue
