@@ -73,12 +73,16 @@ In the process of training our custom data, there are three main tools that we o
 
 If we want to train data with a lot of data, we have to take thousands of images.
 Therefore, we come up with the idea that we can take videos, and convert the video into images.
+
 Please check out [Video-to-image](Tools/videotoimage.md)
 
 (2) Batch Rename the file name
 
+After converting the video to the images, the file name might be random weird name. Also, we have a great number of file to be handle.
+Therefore, we have to use a better and easier way to change the file name. When we label the data, if the file name has weird character, it will get error.
 
 
+Please check out [Batch Rename the file name](Tools/videotoimage.md)
 
 
 # Installation
