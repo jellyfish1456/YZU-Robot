@@ -69,7 +69,11 @@ to be continue
 # Tools
 In the process of training our custom data, there are three main tools that we often use.
 
-(1)
+(1) Video-to-image
+
+If we want to train data with a lot of data, we have to take thousands of images.
+Therefore, we come up with the idea that we can take videos, and convert the video into images.
+Please check out [Video-to-image](Jetson_nano/vnc.md)
 
 (2) Batch Rename the file name
 
