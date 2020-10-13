@@ -84,6 +84,10 @@ Therefore, we have to use a better and easier way to change the file name. When 
 
 Please check out [Batch Rename the file name](Tools/BatchRenaming.md)
 
+(3) YOLO Label
+It is very important to label the images with the format of text file or xml file. Since the process of "Object detection training" needs the information of the bounding box. Using YOLOLabel can easily get the bounding box information.
+
+Please check out [YOLO Label](Tools/yololabel.md)
 
 # Installation
 
