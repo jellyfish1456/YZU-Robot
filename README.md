@@ -73,7 +73,7 @@ to be continue
 For the installation process, we use ....................
 
 ### Jetson Nano
-Please check out [Jetson_nano/vnc.md](vnc)
+Please check out [vnc](Jetson_nano/vnc.md)
   
  # Gratitude
 
