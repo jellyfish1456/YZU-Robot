@@ -73,7 +73,7 @@ to be continue
 For the installation process, we use ....................
 
 ### Jetson Nano
-Please check out [vnc](Jetson_nano/vnc.md)
+Please check out [VNC](Jetson_nano/vnc.md) to see how we control Jetson Nano without using screen and keyboards.
   
  # Gratitude
 
