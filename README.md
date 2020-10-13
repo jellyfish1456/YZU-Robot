@@ -2,7 +2,7 @@
 
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/logo1.jpg"/></div>
 
-This YZUEI Robot is our graduate capstone. The group members are Li-Yuan Liu and Ching-Hsien Hsu.
+This YZUEI Robot is our graduate capstone. The group members are Li-Yuan Liu (1063706) and Ching-Hsien Hsu (1063740).
 
 
 
