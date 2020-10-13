@@ -67,6 +67,15 @@ The accuracy is
 to be continue
 
 # Tools
+In the process of training our custom data, there are three main tools that we often use.
+
+(1)
+
+(2) Batch Rename the file name
+
+
+
+
 
 # Installation
 
