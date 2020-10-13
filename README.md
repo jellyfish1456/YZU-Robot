@@ -82,7 +82,7 @@ After converting the video to the images, the file name might be random weird na
 Therefore, we have to use a better and easier way to change the file name. When we label the data, if the file name has weird character, it will get error.
 
 
-Please check out [Batch-Rename-the-file-name](Tools/Batch Renaming.md)
+Please check out [Batch Rename the file name](Tools/BatchRenaming.md)
 
 
 # Installation
