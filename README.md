@@ -30,21 +30,15 @@ Here is the link of [Siegfried robot](http://robosmart.com.tw/zh-tw/product_con.
 
 
 # Train_data
-The following method is our traing data concept
+The following method is our traing data concept, all the process is using YOLOv3-tiny
 
-
-1. we took images from far to middle to near as the training datas. Because in the process of the robot's movement, the object we want to detect will become bigger when the robot close to the object. 
+We took images from far to middle to near as the training datas. Because in the process of the robot's movement, the object we want to detect will become bigger when the robot close to the object. 
 
 Also, we set the far images, middle images and near images as  traing data in one class. The reason why we set different range views of the same class is because they are belongs to the same object, no matter the range of the images.
 
 Moreover, if we set the training data as three different classes, the detection cannot easily be classified. Since the edge between far and middle, middle and near is difficult to define.
 
-
-
-### Feature 
-
-
-to be continue
+For the detailed information of YOLOv3, please visit its official website.
 
 # Tools
 In the process of training our custom data, there are three main tools that we often use.
