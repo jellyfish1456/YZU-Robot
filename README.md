@@ -16,6 +16,7 @@ Generally, a defined biped humanoid robot has a torso, a head, two arms, as well
   * [Tools](#Tools)
   * [Train_data](#Train_data)
   * [Algorithm](#Algorithm)
+  * [Report](#Report)
   * [Gratitude](#Gratitude)
 
 # Robot
@@ -70,7 +71,8 @@ For the detailed information of YOLOv3, please visit its official website.
   Below is the algorithm of the object detection processing
   <div align=center><img width="450" height="450" src="https://github.com/christw16/YZU-Robot/blob/master/images/algorithm.jpg"/></div>
   
-  
+ # Report
+ 
  # Gratitude
 
 We appreciate Prof. Po-Chiang Lin as our capstone instructor.
