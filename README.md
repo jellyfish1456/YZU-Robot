@@ -12,9 +12,10 @@ Generally, a defined biped humanoid robot has a torso, a head, two arms, as well
 # Content
 
   * [Robot](#Robot)
+  * [JetsonNano](#JetsonNano)
   * [Tools](#Tools)
   * [Train_data](#Train_data)
-  * [JetsonNano](#JetsonNano)
+  * [Algorithm](#Algorithm)
   * [Gratitude](#Gratitude)
 
 # Robot
@@ -23,17 +24,12 @@ The robot we use in our capstone is Siegfried robot.
 Here is the link of [Siegfried robot](http://robosmart.com.tw/zh-tw/product_con.php?id=NTA=)
 <div align=center><img width="450" height="450" src="https://github.com/christw16/YZU-Robot/blob/master/images/S__29704212.jpg"/></div>
 
+# JetsonNano
+Please check out [Install](Jetson_nano/Installation_of_Jetson_Nano.md) to see how to install Jetson Nano.
 
-# Train_data
-The following method is our traing data concept, all the process is using YOLOv3-tiny
+Please check out [Install](Jetson_nano/Equipment.md) to see the equipment.
 
-We took images from far to middle to near as the training datas. Because in the process of the robot's movement, the object we want to detect will become bigger when the robot close to the object. 
-
-Also, we set the far images, middle images and near images as  traing data in one class. The reason why we set different range views of the same class is because they are belongs to the same object, no matter the range of the images.
-
-Moreover, if we set the training data as three different classes, the detection cannot easily be classified. Since the edge between far and middle, middle and near is difficult to define.
-
-For the detailed information of YOLOv3, please visit its official website.
+Please check out [VNC](Jetson_nano/vnc.md) to see how we control Jetson Nano without using screen and keyboards.
 
 # Tools
 In the process of training our custom data, there are three main tools that we often use.
@@ -58,12 +54,18 @@ It is very important to label the images with the format of text file or xml fil
 
 Please check out [YOLO Label](Tools/yololabel.md)
 
-### JetsonNano
-Please check out [Install](Jetson_nano/Installation_of_Jetson_Nano.md) to see how to install Jetson Nano.
+# Train_data
+The following method is our traing data concept, all the process is using YOLOv3-tiny
 
-Please check out [Install](Jetson_nano/Equipment.md) to see the equipment.
+We took images from far to middle to near as the training datas. Because in the process of the robot's movement, the object we want to detect will become bigger when the robot close to the object. 
 
-Please check out [VNC](Jetson_nano/vnc.md) to see how we control Jetson Nano without using screen and keyboards.
+Also, we set the far images, middle images and near images as  traing data in one class. The reason why we set different range views of the same class is because they are belongs to the same object, no matter the range of the images.
+
+Moreover, if we set the training data as three different classes, the detection cannot easily be classified. Since the edge between far and middle, middle and near is difficult to define.
+
+For the detailed information of YOLOv3, please visit its official website.
+
+# Algorithm
   
  # Gratitude
 
