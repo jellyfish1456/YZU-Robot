@@ -12,14 +12,9 @@ Generally, a defined biped humanoid robot has a torso, a head, two arms, as well
 # Content
 
   * [Robot](#Robot)
-  * [Praogram_syntax](#Praogram_syntax)
-  * [Robot_Action_Programming](#Robot_Action_Programming)
   * [Tools](#Tools)
-  * [Preliminary_prepare](#Preliminary_prepare)
-  * [Check_and_start](#Check_and_start)
-  * [Reference](#Reference)
-  * [Members](#Members)
-  * [Honor](#Honor)
+  * [Train_data](#Train_data)
+  * [JetsonNano](#JetsonNano)
   * [Gratitude](#Gratitude)
 
 # Robot
@@ -63,7 +58,7 @@ It is very important to label the images with the format of text file or xml fil
 
 Please check out [YOLO Label](Tools/yololabel.md)
 
-### Jetson Nano
+### JetsonNano
 Please check out [VNC](Jetson_nano/vnc.md) to see how we control Jetson Nano without using screen and keyboards.
   
  # Gratitude
