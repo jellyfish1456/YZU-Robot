@@ -28,6 +28,8 @@ Generally, a defined biped humanoid robot has a torso, a head, two arms, as well
 
 The robot we use in our capstone is Siegfried robot.
 Here is the link of [Siegfried robot](http://robosmart.com.tw/zh-tw/product_con.php?id=NTA=)
+<div align=center><img width="450" height="450" src="https://github.com/christw16/YZU-Robot/blob/master/images/S__29704212.jpg"/></div>
+
 
 # Train_data
 The following method is our traing data concept
