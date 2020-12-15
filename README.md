@@ -22,7 +22,7 @@ Generally, a defined biped humanoid robot has a torso, a head, two arms, as well
 
 The robot we use in our capstone is Siegfried robot.
 Here is the link of [Siegfried robot](http://robosmart.com.tw/zh-tw/product_con.php?id=NTA=)
-<div align=center><img width="450" height="450" src="https://github.com/christw16/YZU-Robot/blob/master/images/S__29704212.jpg"/></div>
+<div align=center><img width="450" height="470" src="https://github.com/christw16/YZU-Robot/blob/master/images/S__29704212.jpg"/></div>
 
 # JetsonNano
 Please check out [Install](Jetson_nano/Installation_of_Jetson_Nano.md) to see how to install Jetson Nano.
@@ -66,6 +66,9 @@ Moreover, if we set the training data as three different classes, the detection 
 For the detailed information of YOLOv3, please visit its official website.
 
 # Algorithm
+  
+  <div align=center><img width="450" height="450" src="https://github.com/christw16/YZU-Robot/blob/master/images/algorithm.jpg"/></div>
+  
   
  # Gratitude
 
