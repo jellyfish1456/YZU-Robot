@@ -67,6 +67,7 @@ For the detailed information of YOLOv3, please visit its official website.
 
 # Algorithm
   
+  Below is the algorithm of the object detection processing
   <div align=center><img width="450" height="450" src="https://github.com/christw16/YZU-Robot/blob/master/images/algorithm.jpg"/></div>
   
   
