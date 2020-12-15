@@ -12,13 +12,11 @@ Generally, a defined biped humanoid robot has a torso, a head, two arms, as well
 # Content
 
   * [Robot](#Robot)
-  * [Installation](#Installation)
   * [Praogram_syntax](#Praogram_syntax)
   * [Robot_Action_Programming](#Robot_Action_Programming)
   * [Tools](#Tools)
   * [Preliminary_prepare](#Preliminary_prepare)
   * [Check_and_start](#Check_and_start)
-  * [Code](#Code)
   * [Reference](#Reference)
   * [Members](#Members)
   * [Honor](#Honor)
@@ -90,10 +88,6 @@ Please check out [Batch Rename the file name](Tools/BatchRenaming.md)
 It is very important to label the images with the format of text file or xml file. Since the process of "Object detection training" needs the information of the bounding box. Using YOLOLabel can easily get the bounding box information.
 
 Please check out [YOLO Label](Tools/yololabel.md)
-
-# Installation
-
-For the installation process, we use ....................
 
 ### Jetson Nano
 Please check out [VNC](Jetson_nano/vnc.md) to see how we control Jetson Nano without using screen and keyboards.
