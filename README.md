@@ -59,7 +59,7 @@ It is very important to label the images with the format of text file or xml fil
 Please check out [YOLO Label](Tools/yololabel.md)
 
 ### JetsonNano
-Please check out [Install](Jetson_nano/Installation of Jetson Nano.md) to see how to install Jetson Nano.
+Please check out [Install](Jetson_nano/Installation_of_Jetson_Nano.md) to see how to install Jetson Nano.
 Please check out [VNC](Jetson_nano/vnc.md) to see how we control Jetson Nano without using screen and keyboards.
 
 Installation of Jetson Nano.md
