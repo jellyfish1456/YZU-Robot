@@ -28,6 +28,8 @@ Here is the link of [Siegfried robot](http://robosmart.com.tw/zh-tw/product_con.
 Below is the hardware connection architecture
 <div align=center><img width="600" height="350" src="https://github.com/christw16/YZU-Robot/blob/master/images/process.jpg"/></div>
 
+Below is Robot’s operation process
+<div align=center><img width="600" height="350" src="https://github.com/christw16/YZU-Robot/blob/master/images/robot_process.jpg"/></div>
 # JetsonNano
 Please check out [Install](Jetson_nano/Installation_of_Jetson_Nano.md) to see how to install Jetson Nano.
 
