@@ -1,4 +1,4 @@
-# Biped humanoid robot combined with computer vision technology - for real-time object detection based on YOLO
+# Biped humanoid robot combined with computer vision technology - For real-time object detection based on YOLOv3
 
 <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/logo1.jpg"/></div>
 
